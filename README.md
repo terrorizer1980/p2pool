@@ -61,7 +61,7 @@ You'll also need to install and run your bitcoind or altcoind of choice, and edi
 
 >pypy run_p2pool.py
 
-**P2pool Dockerfile
+**P2pool Dockerfile**
 
 The Dockerfile uses the build instruction above to create a Docker image.
 
